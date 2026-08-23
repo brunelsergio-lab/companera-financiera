@@ -1,0 +1,10 @@
+streamlit>=1.40
+pandas>=2.0
+supabase>=2.18.0
+pypdf>=5.0.0
+pillow>=10.0.0
+pymupdf>=1.24.0
+rapidocr>=3.9.2
+onnxruntime>=1.27.0
+opencv-python-headless==5.0.0.93
+extra-streamlit-components>=0.1.81
