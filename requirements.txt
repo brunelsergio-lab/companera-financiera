@@ -1,0 +1,9 @@
+streamlit
+supabase
+pandas
+pypdf
+Pillow
+rapidocr
+opencv-python-headless
+reportlab
+streamlit-local-storage
