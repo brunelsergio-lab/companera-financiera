@@ -8,3 +8,4 @@ rapidocr
 opencv-python-headless
 reportlab
 streamlit-local-storage
+extra-streamlit-components
