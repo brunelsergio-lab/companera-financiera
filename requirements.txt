@@ -2,6 +2,7 @@ streamlit
 supabase
 pandas
 pypdf
+pymupdf
 Pillow
 rapidocr
 opencv-python-headless
